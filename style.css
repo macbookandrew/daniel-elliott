@@ -485,7 +485,8 @@ input#searchsubmit {
 /* Links */
 a {
     color: #1982d1;
-    text-decoration: none;
+    text-decoration: underline;
+    font-weight: 700;
 }
 a:focus,
 a:active,
