@@ -78,7 +78,7 @@ body {
     max-width: 1000px;
 }
 #branding hgroup {
-    margin: 0 7.6%;
+    display: none;
 }
 #access div {
     margin: 0 7.6%;
@@ -2597,9 +2597,6 @@ p.comment-form-comment {
     #branding {
         border-top: none !important;
         padding: 0;
-    }
-    #branding hgroup {
-        margin: 0;
     }
     #site-title a {
         font-size: 21pt;
